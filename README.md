@@ -31,6 +31,6 @@ tomoki_sun(築山朋紀)について書いています。
 
 # Reference
 
-- https://github.com/mogaming217/resume
-- https://yusukemorita.github.io/resume
-- https://zenn.dev/ryo_kawamata/articles/resume-on-github
+- [https://github.com/mogaming217/resume](https://github.com/mogaming217/resume)
+- [https://yusukemorita.github.io/resume](https://yusukemorita.github.io/resume)
+- [https://zenn.dev/ryo_kawamata/articles/resume-on-github](https://zenn.dev/ryo_kawamata/articles/resume-on-github)
