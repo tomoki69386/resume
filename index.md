@@ -3,3 +3,7 @@
 # tomoki_sun
 
 ソフトウェアエンジニア
+
+# 詳細情報
+
+- [職務経歴](./career/index.md)
